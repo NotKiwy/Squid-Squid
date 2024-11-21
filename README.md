@@ -61,5 +61,5 @@ async def cmd(client, message):
   
   ## 🦑 Created by SQUID-SQUID LLC
   
--> [Telegram](https://t.me/example) <- 
+-> [Telegram](https://t.me/squid_dev) <- 
 </div>
